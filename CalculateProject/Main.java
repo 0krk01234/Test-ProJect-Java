@@ -8,5 +8,8 @@ public class Main {
         System.out.println("Add Hot fix2");
         System.out.println("Add Hot fix3");
         System.out.println("Add Hot fix4");
+
+        System.out.println("eiei");
+        System.err.println("eoeo");
     }
 }
