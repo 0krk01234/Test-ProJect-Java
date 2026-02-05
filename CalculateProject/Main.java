@@ -13,6 +13,7 @@ public class Main {
             System.out.println(e.getMessage());
         }
 
-        
+        System.out.println("eiei");
+        System.err.println("eoeo");
     }
 }
